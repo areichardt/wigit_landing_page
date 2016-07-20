@@ -724,7 +724,7 @@ select {
 /* ======= Features Section ======= */
 .features {
   padding: 80px 0;
-  padding-left: 350px ;
+ /* padding-left: 350px;*/
 }
 .features .icon {
   position: relative;
