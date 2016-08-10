@@ -68,7 +68,7 @@ blockquote {
 }
 .note {
   font-family: 'Covered By Your Grace', cursive;
-  font-size: 22px;
+  font-size: 40px;
 }
 .row-end {
   margin-right: 0;
@@ -450,20 +450,20 @@ select {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   display: block;
-  width: 200px;
-  height: 60px;
+  width: 300px;
+  height: 125px;
   text-indent: -9999px;
   margin-right: 30px;
 }
 .promo .overview .btn-group li a:hover {
   background-color: #225742;
+ 
 }
 .promo .overview .btn-group li.ios-btn a {
   background-image: url('../images/buttons/btn-app-store.png');
+  background-position: center; 
 }
-.promo .overview .btn-group li.android-btn a {
-  background-image: url('../images/buttons/btn-google-play.png');
-}
+
 .promo .overview .note {
   position: relative;
   color: #317b5e;
@@ -471,38 +471,7 @@ select {
 .promo .overview .note p {
   padding-top: 15px;
 }
-.promo .overview .note .left-arrow {
-  position: absolute;
-  left: 60px;
-  bottom: 15px;
-  display: inline-block;
-  background: url('../images/arrows/up-arrow-left.png') no-repeat left top;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
-  width: 63px;
-  height: 69px;
-  -webkit-opacity: 0.5;
-  -moz-opacity: 0.5;
-  opacity: 0.5;
-}
-.promo .overview .note .right-arrow {
-  position: absolute;
-  right: 60px;
-  bottom: 15px;
-  display: inline-block;
-  background: url('../images/arrows/up-arrow-right.png') no-repeat right top;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
-  width: 63px;
-  height: 58px;
-  -webkit-opacity: 0.5;
-  -moz-opacity: 0.5;
-  opacity: 0.5;
-}
+
 .promo .iphone {
   position: relative;
 }
@@ -906,10 +875,11 @@ select {
 .story .content .title {
   margin-bottom: 30px;
   margin-top: 0;
+  font-family: 'Covered by your Grace', cursive;
 }
 .story .content p {
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 500;
   margin-bottom: 15px;
 }
 .story .team {
