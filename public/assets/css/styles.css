@@ -87,7 +87,7 @@ blockquote {
 }
 .social-icons a {
   display: inline-block;
-  background: #3fa07a;
+  background: #4db8ff;
   width: 48px;
   height: 48px;
   text-align: center;
@@ -699,9 +699,9 @@ select {
 }
 .features .icon {
   position: relative;
-  width: 90px;
-  height: 90px;
-  border: 3px solid #56bc94;
+  width: 120px;
+  height: 95px;
+  border: 3px solid #666666;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -752,7 +752,7 @@ select {
   padding: 30px;
 }
 .features .content .title {
-  color: #56bc94;
+  color: #4db8ff;
   font-size: 18px;
   margin-top: 0;
 }
@@ -763,7 +763,7 @@ select {
   margin-top: 30px;
 }
 .features .btn-link {
-  color: #56bc94;
+  color: #4db8ff;
 }
 .features .btn-link:hover {
   color: #3fa07a;
@@ -894,8 +894,9 @@ select {
   border-radius: 60% !important
 }
 .story .team .member .name {
-  color: #225742;
+  color: #666666;
   margin-bottom: 0px;
+  text-shadow: 0 0px 8px rgba(0, 0, 0, 0.3)
 }
 .story .team .member .title {
   color: #c4e7d9;
@@ -1180,14 +1181,14 @@ select {
 }
 .contact .intro li {
   margin-bottom: 10px;
-  color: #317b5e;
+  color: #4db8ff;
   font-size: 16px;
 }
 .contact .intro li .fa {
   margin-right: 10px;
 }
 .contact .intro li a {
-  color: #317b5e;
+  color: #4db8ff;
 }
 .contact .intro li a:hover {
   color: #225742;
@@ -1198,7 +1199,7 @@ select {
   padding: 10px 15px;
 }
 .contact .contact-form .btn-theme {
-  background-color: #317b5e;
+  background-color: #4db8ff;
   margin-top: 15px;
 }
 .contact .social-icons {

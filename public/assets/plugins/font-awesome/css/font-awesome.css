@@ -312,6 +312,8 @@
 }
 .fa-book:before {
   content: "\f02d";
+  color: #4db8ff;
+  text-shadow: 0 0px 8px rgba(0, 0, 0, 0.3);
 }
 .fa-bookmark:before {
   content: "\f02e";
@@ -633,6 +635,8 @@
 }
 .fa-github:before {
   content: "\f09b";
+  color: #666666;
+  text-shadow: 0 0px 8px rgba(0, 0, 0, 0.3)
 }
 .fa-unlock:before {
   content: "\f09c";
@@ -749,6 +753,7 @@
 }
 .fa-table:before {
   content: "\f0ce";
+
 }
 .fa-magic:before {
   content: "\f0d0";
@@ -770,6 +775,8 @@
 }
 .fa-money:before {
   content: "\f0d6";
+  text-shadow: 0 0px 8px rgba(0, 0, 0, 0.3);
+
 }
 .fa-caret-down:before {
   content: "\f0d7";
@@ -803,6 +810,9 @@
 }
 .fa-linkedin:before {
   content: "\f0e1";
+  color: #666666;
+  text-shadow: 0 0px 8px rgba(0, 0, 0, 0.3)
+
 }
 .fa-rotate-left:before,
 .fa-undo:before {
@@ -841,6 +851,8 @@
 }
 .fa-exchange:before {
   content: "\f0ec";
+  color: #4db8ff;
+  text-shadow: 0 0px 8px rgba(0, 0, 0, 0.3);
 }
 .fa-cloud-download:before {
   content: "\f0ed";
