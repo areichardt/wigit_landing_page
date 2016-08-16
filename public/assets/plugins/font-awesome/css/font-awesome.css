@@ -197,6 +197,7 @@
 }
 .fa-star:before {
   content: "\f005";
+  color: #4db8ff
 }
 .fa-star-o:before {
   content: "\f006";
@@ -1241,6 +1242,7 @@
 }
 .fa-bitbucket-square:before {
   content: "\f172";
+  
 }
 .fa-tumblr:before {
   content: "\f173";
